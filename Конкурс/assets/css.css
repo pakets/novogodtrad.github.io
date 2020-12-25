@@ -1,0 +1,22 @@
+
+body{ background: url(./files/fon.png);}
+ul { background-color: azure;
+list-style: none; /*убираем маркеры списка*/
+margin: 0; /*убираем отступы*/
+padding-left: 0; /*убираем отступы*/
+}
+a {
+text-decoration: none; /*убираем подчеркивание текста ссылок*/
+font: caption
+;
+}
+li {background-color: azure;
+float:left; /*Размещаем список горизонтально для реализации меню*/
+margin-right:2px; /*Добавляем отступ у пунктов меню*/
+}
+.name{
+    color: rgb(49, 151, 116);
+    font-size: 50px;}
+.natasha{
+    color: crimson;
+}
