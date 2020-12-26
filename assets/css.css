@@ -1,6 +1,6 @@
 
 body{ background: url(./files/fon.png);}
-ul { background-color: azure;
+ul {
 list-style: none; /*убираем маркеры списка*/
 margin: 0; /*убираем отступы*/
 padding-left: 0; /*убираем отступы*/}
