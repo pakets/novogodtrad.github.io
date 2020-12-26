@@ -3,12 +3,10 @@ body{ background: url(https://lh3.googleusercontent.com/proxy/Rp-0FRqJvglgeAOZb4
 ul { background-color: azure;
 list-style: none; /*убираем маркеры списка*/
 margin: 0; /*убираем отступы*/
-padding-left: 0; /*убираем отступы*/
-}
+padding-left: 0; /*убираем отступы*/}
 a {
 text-decoration: none; /*убираем подчеркивание текста ссылок*/
-font: caption
-;
+font: caption;
 }
 li {background-color: azure;
 float:left; /*Размещаем список горизонтально для реализации меню*/
